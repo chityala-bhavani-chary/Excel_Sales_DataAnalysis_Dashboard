@@ -67,6 +67,7 @@ The objective is to convert **raw business data into actionable insights** that 
 ---
 
 ## 📂 Project Structure
+---
 Excel-Data-Analysis-Dashboard/
 │
 ├── data/ # Raw datasets
